@@ -5,6 +5,9 @@
  
 Logo of OneDayRun Project
 
+![1/cover.png](1/cover.png)
+
+![2/cover.png](2/cover.png)
 
 ---
 + [edit](https://github.com/onedayrun/logo/edit/master/README.md)
